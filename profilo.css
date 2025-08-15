@@ -19,9 +19,9 @@ body
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 300px;
+        width: 280px;
         background-color: white;
-        box-shadow: 3px 3px 5px rgba(0,0,0,.7);
+        box-shadow: 0px 0px 5px rgba(0,0,0,.7);
      }
      .blue
      {
@@ -32,7 +32,7 @@ body
      }
      .name
      {
-        margin-top: 35px;
+        margin-top: 28px;
         font-weight: 600;
         font-size: 15px;
      }
@@ -105,7 +105,7 @@ body
         width: 100px;
         height: 26px;
            border: none;
-           font-size: 13px;
+           font-size: 12px;
            border-radius: 13px;
            
      }
@@ -155,12 +155,12 @@ body
         height: 100px;
         position: absolute;
         bottom: -15px;
-        left: 95px;
+        left: 85px;
         background-color: white;
         border-radius: 50%;
         border-color: blue;
         border-style: solid;
-        border-width: 2px;
+        border-width: 3px;
         padding: 3px;
      }
      .profile-pic
