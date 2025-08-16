@@ -87,16 +87,16 @@ body
         align-items: center;
         justify-content: center;
         background-color: blue;
-        padding-left: 2px;
-        padding-right: 2px;
-          padding-top: 0px;
-        padding-right: 2px;
+        padding-left: 6px;
+        padding-right: 6px;
+          padding-top: 4px;
+        padding-bottom: 4px;
          border-radius: 50%;
         margin-right:12px ;
      }
      .linkedin
      {
-        height: 20px;
+        height: 18px;
      }
      button
      {
